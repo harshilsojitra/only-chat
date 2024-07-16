@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052347025271",
+    "project_id": "onch-df6c0",
+    "storage_bucket": "onch-df6c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052347025271:android:0b20ec7e7c0d1723548372",
+        "android_client_info": {
+          "package_name": "com.example.onch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052347025271-6aqu3ejlpbdj779u90jj1uutrmjro4mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl_dF1X2nIbHn44veHBJt_yA0hjFpBuDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052347025271-6aqu3ejlpbdj779u90jj1uutrmjro4mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

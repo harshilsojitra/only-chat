@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#AEEEAB"
+    tools:context=".Activity.HomeActivity">
+
+    <LinearLayout
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#121212"
+        android:gravity="right"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/Username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/app_name"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_16sdp" />
+
+        <ImageView
+            android:id="@+id/img_logout"
+            android:layout_width="@dimen/_20sdp"
+            android:layout_height="@dimen/_20sdp"
+            android:layout_gravity="center"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:background="@drawable/log"
+            android:backgroundTint="#70F86A"/>
+
+    </LinearLayout>
+
+
+    <EditText
+        android:id="@+id/etsearch"
+        android:layout_width="@dimen/_295sdp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/toolbar"
+        android:drawablePadding="@dimen/_5sdp"
+        android:hint="search"
+        android:layout_centerHorizontal="true"
+        android:paddingHorizontal="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:background="@drawable/shape_item"
+        android:backgroundTint="#929B91"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textColorHint="#000"
+        android:textSize="@dimen/_13sdp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/mainUserRecycerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etsearch"
+        android:layout_marginTop="@dimen/_5sdp" />
+
+</RelativeLayout>

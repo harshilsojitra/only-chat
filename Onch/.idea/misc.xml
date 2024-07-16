@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Project/Onch/app/src/main/res/layout/activity_chat.xml" value="0.2" />
+        <entry key="..\:/Android Project/Onch/app/src/main/res/layout/activity_forgot.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Project/Onch/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Android Project/Onch/app/src/main/res/layout/activity_login.xml" value="0.12681159420289856" />
+        <entry key="..\:/Android Project/Onch/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android Project/Onch/app/src/main/res/layout/activity_registration.xml" value="0.12681159420289856" />
+        <entry key="..\:/Android Project/Onch/app/src/main/res/layout/dialog_layout.xml" value="0.25" />
+        <entry key="..\:/Android Project/Onch/app/src/main/res/layout/item_user_drow.xml" value="0.22" />
+        <entry key="..\:/Android Project/Onch/app/src/main/res/layout/reciver_layout_item.xml" value="0.9" />
+        <entry key="..\:/Android Project/Onch/app/src/main/res/layout/sender_layout_item.xml" value="0.25" />
+        <entry key="..\:/Android Project/Onch/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Onch/app/src/main/res/drawable/edittext_shape.xml" value="0.127" />
+        <entry key="..\:/Onch/app/src/main/res/drawable/empty_bac.xml" value="0.1275" />
+        <entry key="..\:/Onch/app/src/main/res/drawable/reciver_shape.xml" value="0.1275" />
+        <entry key="..\:/Onch/app/src/main/res/drawable/sender_shape.xml" value="0.1275" />
+        <entry key="..\:/Onch/app/src/main/res/drawable/shape_item.xml" value="0.1275" />
+        <entry key="..\:/Onch/app/src/main/res/layout/activity_chat.xml" value="0.2" />
+        <entry key="..\:/Onch/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Onch/app/src/main/res/layout/activity_login.xml" value="0.19010416666666666" />
+        <entry key="..\:/Onch/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Onch/app/src/main/res/layout/activity_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/Onch/app/src/main/res/layout/dialog_layout.xml" value="0.203125" />
+        <entry key="..\:/Onch/app/src/main/res/layout/item_user_drow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Onch/app/src/main/res/layout/reciver_layout_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Onch/app/src/main/res/layout/sender_layout_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/drawable/edittext_shape.xml" value="0.1425" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/drawable/empty_bac.xml" value="0.1425" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1425" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/drawable/name_shap.xml" value="0.1425" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/drawable/reciver_shape.xml" value="0.1425" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/drawable/sender_shape.xml" value="0.1425" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/drawable/shape_dialog.xml" value="0.1425" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/drawable/shape_item.xml" value="0.1425" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/drawable/sign_in_btn.xml" value="0.1425" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/layout/activity_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/layout/activity_forgot.xml" value="0.20416666666666666" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/layout/activity_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/layout/activity_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/layout/item_user_drow.xml" value="0.20416666666666666" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/layout/reciver_layout_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/sem 5/Onch/app/src/main/res/layout/sender_layout_item.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
